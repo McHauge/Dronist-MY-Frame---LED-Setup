@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMcHauge%2FDronist-MY-Frame---LED-Setup.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMcHauge%2FDronist-MY-Frame---LED-Setup?ref=badge_shield)
+
 
 ---- Dronist MY Frame - LED Setup ----
 
@@ -16,3 +18,6 @@ Only at first gen atm.
 ---- History ----
 
 2018-July-24 - project began
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMcHauge%2FDronist-MY-Frame---LED-Setup.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMcHauge%2FDronist-MY-Frame---LED-Setup?ref=badge_large)
